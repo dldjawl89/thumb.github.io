@@ -451,10 +451,14 @@ header .scroll-down .btn:hover {
     display: block;
     font-size: 30px;
     line-height: 51px;
-    color: #ff9900;
+    color: #000;
 
-    margin: 90px 0;
+    transition: .3s;
+    margin: 100px 0 0;
     text-align: left;
+  }
+  header .phone-number:hover{
+    color: #ff9900;
   }
   header .brand-name-subtext {
     font-size: 18px;

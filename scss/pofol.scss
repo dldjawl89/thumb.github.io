@@ -2408,6 +2408,8 @@
       background: url(../pofol_img/plan_main_01.png) no-repeat center top;
       background-size: cover;
       height: 100%;
+      position: relative;
+      z-index: 50;
       .main1_container{
         width: $w;
         margin: $auto;
