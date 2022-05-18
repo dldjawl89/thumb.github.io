@@ -275,31 +275,31 @@
         }
       }
       .banner_01{
-        background: url(/pofol_img/candle_banner_01.png);
+        background: url(../pofol_img/candle_banner_01.png);
         background-repeat: no-repeat;
         width: 100%;
         height: 100vh;
       }
       .banner_02{
-        background: url(/pofol_img/candle_banner_02.png);
+        background: url(../pofol_img/candle_banner_02.png);
         background-repeat: no-repeat;
         width: 100%;
         height: 100vh;
       }
       .banner_03{
-        background: url(/pofol_img/candle_banner_03.png);
+        background: url(../pofol_img/candle_banner_03.png);
         background-repeat: no-repeat;
         width: 100%;
         height: 100vh;
       }
       .banner_04{
-        background: url(/pofol_img/candle_banner_04.png);
+        background: url(../pofol_img/candle_banner_04.png);
         background-repeat: no-repeat;
         width: 100%;
         height: 100vh;
       }
       .banner_05{
-        background: url(/pofol_img/candle_banner_05.png);
+        background: url(../pofol_img/candle_banner_05.png);
         background-repeat: no-repeat;
         width: 100%;
         height: 100vh;
@@ -713,7 +713,7 @@
         .left_box_01{
           display: inline-block;
           vertical-align: top;
-          background-image: url(/pofol_img/candle_main4_01.png);
+          background-image: url(../pofol_img/candle_main4_01.png);
           width: 350px;
           height: 450px;
         }
@@ -723,7 +723,7 @@
         .left_box_02{
           display: inline-block;
           vertical-align: top;
-          background-image: url(/pofol_img/candle_main4_02.png);
+          background-image: url(../pofol_img/candle_main4_02.png);
           width: 350px;
           height: 450px;
         }
@@ -1305,27 +1305,27 @@
           font-weight: bold;
         }
         .main2_img_01{
-          background: url(/pofol_img/glasses_main2_01.png);
+          background: url(../pofol_img/glasses_main2_01.png);
           background-repeat: no-repeat;
         }
         .main2_img_02{
-          background: url(/pofol_img/glasses_main2_02.png);
+          background: url(../pofol_img/glasses_main2_02.png);
           background-repeat: no-repeat;
         }
         .main2_img_03{
-          background: url(/pofol_img/glasses_main2_03.png);
+          background: url(../pofol_img/glasses_main2_03.png);
           background-repeat: no-repeat;
         }
         .main2_img_04{
-          background: url(/pofol_img/glasses_main2_04.png);
+          background: url(../pofol_img/glasses_main2_04.png);
           background-repeat: no-repeat;
         }
         .main2_img_05{
-          background: url(/pofol_img/glasses_main2_05.png);
+          background: url(../pofol_img/glasses_main2_05.png);
           background-repeat: no-repeat;
         }
         .main2_img_06{
-          background: url(/pofol_img/glasses_main2_06.png);
+          background: url(../pofol_img/glasses_main2_06.png);
           background-repeat: no-repeat;
         }
       }
@@ -1376,7 +1376,7 @@
       display: inline-block;
       vertical-align: top;
       width: 45%;
-      background: url(/pofol_img/glasses_main3.png);
+      background: url(../pofol_img/glasses_main3.png);
       background-repeat: no-repeat;
       height: 300px;
       .main3_t{
@@ -1946,7 +1946,7 @@
 #fullpage{
   .page_01{
     .hotel_main_1{
-      background: url(/pofol_img/hotel_banner.png) no-repeat center top;
+      background: url(../pofol_img/hotel_banner.png) no-repeat center top;
       background-size: cover;
       height: 100vh;
       position: relative;
@@ -1968,7 +1968,7 @@
   }
   .page_02{
     .hotel_main_2{
-      background: url(/pofol_img/hotel_main2.png) no-repeat center top;
+      background: url(../pofol_img/hotel_main2.png) no-repeat center top;
       background-size: cover;
       height: 100vh;
       .main2_name{
@@ -2126,7 +2126,7 @@
   }
 }
 .page_04{
-  background: url(/pofol_img/hotel_main4.png) no-repeat center top;
+  background: url(../pofol_img/hotel_main4.png) no-repeat center top;
   background-size: cover;
   height: 100vh;
   .hotel_main_4{
@@ -2241,7 +2241,7 @@
 /*****hotel footer*******/
 
 .footer_03{
-  background: url(/pofol_img/hotel_footer.png) no-repeat center top;
+  background: url(../pofol_img/hotel_footer.png) no-repeat center top;
   background-size: cover;
   position: relative;
   .foot_03{
@@ -2379,10 +2379,10 @@
 }
 
 /****plan section****/
- il{
-    0%{transform: translateY(0);}
-    100%{transform: translateY(5%);}
-  }
+//  il{
+//     0%{transform: translateY(0);}
+//     100%{transform: translateY(5%);}
+//   }
 
 #plan_full{
   .section{
@@ -2405,7 +2405,7 @@
       }
     }
     .plan_main_01{
-      background: url(/pofol_img/plan_main_01.png) no-repeat center top;
+      background: url(../pofol_img/plan_main_01.png) no-repeat center top;
       background-size: cover;
       height: 100%;
       .main1_container{
@@ -2495,7 +2495,7 @@
       }
     }
     .plan_main_02{
-      background: url(/pofol_img/plan_main2_bg.png) no-repeat center top;
+      background: url(../pofol_img/plan_main2_bg.png) no-repeat center top;
       height: 100vh;
       background-size: cover;
       .main2_container{
@@ -2683,7 +2683,7 @@
       }
     }
     .plan_main_03{
-      background: url(/pofol_img/plan_main3_bg.png) no-repeat center top;
+      background: url(../pofol_img/plan_main3_bg.png) no-repeat center top;
       height: 100vh;
       background-size: cover;
       .main3_container{
@@ -2798,7 +2798,7 @@
       }
     }
     .plan_main_04{
-      background: url(/pofol_img/plan_main4_bg.png) no-repeat center top;
+      background: url(../pofol_img/plan_main4_bg.png) no-repeat center top;
       height: 100vh;
       background-size: cover;
       .main4_list{
