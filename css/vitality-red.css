@@ -186,7 +186,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: inherit;
+  color: gray;
   text-decoration: none;
 }
 p {
